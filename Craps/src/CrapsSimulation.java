@@ -11,6 +11,10 @@ public class CrapsSimulation
 		static int totalDice;
 		public static void main(String[] args)
 			{
+				
+//				TEST TEST TEST
+//				
+//				
 				boolean	stillPlaying = true;
 				// Rolling Variables
 //				int dice = new Random().nextInt(6) + 1;
